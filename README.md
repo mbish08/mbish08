@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Mikel (like Michael - just spelled differently)
 
+### I am a Full Stack Developer, Rescue Dog Dad, and Music Lover.
+
 <!--
 **mbish08/mbish08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
