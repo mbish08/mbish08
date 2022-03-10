@@ -2,13 +2,15 @@
 
 #### I am a Full Stack Developer, Rescue Dog Dad, and Music Lover.
 
+- 🌱 I’m currently taking a deeper dive into front end and expanding my knowledge base (HTML, CSS, JS, React).
+
 <!--
 **mbish08/mbish08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
