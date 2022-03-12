@@ -2,6 +2,7 @@
 
 #### I am a Full Stack Developer, Rescue Dog Dad, and Music Lover.
 
+- This readme is under development.  Stay tuned for updates...
 - 🌱 I’m currently taking a deeper dive into front end and expanding my knowledge base (HTML, CSS, JS, React).
 - Want to know how to add a nifty readme to your Github profile?  Go here:  https://mbishop20.medium.com/make-your-github-profile-unique-69d274706c57 
 
